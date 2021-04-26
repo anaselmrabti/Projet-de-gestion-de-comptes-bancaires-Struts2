@@ -19,3 +19,8 @@ Cette application permet de gérer les opérations des comptes bancaires apparte
 - [x] Une Vue qui permet de consulter un compte via son Numéro.
 - [x] Une Vue qui permet de consulter les opérations (retrait et versement) d’un Compte.
 - [ ] Une Vue qui permet de consulter toutes les opérations réalisées entre deux périodes.
+
+## L'application respecte les critères suivants :
+- Elle se compose de trois couches : DAO, Métier et Web ;
+- La couche Web est basée sur Struts2 ;
+- La mapping ORM (Object Relationnel Mapping) est basé sur JPA et Hibernate ;
