@@ -8,3 +8,14 @@ Cette application permet de gérer les opérations des comptes bancaires apparte
 - Chaque compte est défini par son numéro, sa date création et son solde
 - Chaque Opération est définie par le Numéro opération, le numéro compte, la date d’opération et le montant de mouvement ainsi que son type [retrait ou dépôt].
 
+## Cette application contient les composants Strus (Vue, Modèle et Contrôleur) pour répondre aux besoins suivants :
+
+- [x] Une Vue pour ajouter un nouveau client.
+- [x] Une Vue qui permet d’ajouter un nouveau compte.
+- [x] Une Vue qui permet ajouter une opération de versement.
+- [x] Une Vue qui permet d’ajouter une opération de retrait.
+- [x] Une Vue qui permet de retourner tous les clients.
+- [x] Une Vue qui permet de consulter un client via son code.
+- [x] Une Vue qui permet de consulter un compte via son Numéro.
+- [x] Une Vue qui permet de consulter les opérations (retrait et versement) d’un Compte.
+- [ ] Une Vue qui permet de consulter toutes les opérations réalisées entre deux périodes.
